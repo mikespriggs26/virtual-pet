@@ -1,1 +1,2 @@
 # virtual-pet
+This program will show the owner of a diabetic dog what the dog's current hunger, water, and insulin level. The user will have the opportunity to feed, give water, or give an insulin shot.  Those actions will adjust the levels appropriately. At the same time, the levels are constantly changing on their own.  So the user will always have a new set of statistics when evaluating how to care for the dog.
